@@ -5,7 +5,7 @@ Full Stack E-Commerce MERN APP
 
 Backend .env file 
 
-MONGODB_URI = 
+MONGODB_URI = mongodb://localhost:27017
 TOKEN_SECRET_KEY = 
 FRONTEND_URL
 
